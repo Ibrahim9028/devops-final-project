@@ -1,0 +1,6 @@
+DevOps Final Project
+Application: Nginx
+Container: Docker
+CI/CD: Jenkins
+Orchestration: Kubernetes
+Infrastructure as Code: Terraform
